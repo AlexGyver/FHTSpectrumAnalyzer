@@ -50,21 +50,25 @@
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-* Arduino NANO с ногами http://ali.pub/26yo7x http://ali.pub/26yo7j
-* Arduino NANO без ног http://ali.pub/26yo93 http://ali.pub/26yoa9
-* Макетная плата http://ali.pub/26yoc0 http://ali.pub/26yocl
-* Провода для макетки http://ali.pub/26yocs http://ali.pub/26yodk
-* Дисплей 1602 http://ali.pub/27l6i3
-* Матрица 32х8 RED http://ali.pub/27l6j9
-* Матрица 16х16 RGB http://ali.pub/27l6k1  http://ali.pub/27l6l7
-
-### Готовые наборы анализаторов
-* http://ali.pub/27jvc7
-* http://ali.pub/27jvce
-* http://ali.pub/27jvd6
-* http://ali.pub/27jvdr
-* http://ali.pub/27jvdy
-* http://ali.pub/27jve5
+* Arduino NANO 328p – искать
+* https://ali.ski/tI7blh
+* https://ali.ski/O4yTxb
+* https://ali.ski/6_rFIS
+* https://ali.ski/gb92E-
+* Giant4 (Россия)
+* Макетная плата и провода https://ali.ski/w8AFTm
+* Дисплей 1602
+* https://ali.ski/2VMIU
+* https://ali.ski/4fLT6w
+* Матрица MAX7219 – искать
+* https://ali.ski/URaNlv
+* https://ali.ski/id65D
+* Матрица 16×16 – искать
+* Giant4
+* https://ali.ski/pOMcck
+* https://ali.ski/nSJCP
+* https://ali.ski/hI6tov
+* https://ali.ski/ZSliU7
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
