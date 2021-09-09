@@ -51,24 +51,24 @@
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 * Arduino NANO 328p – искать
-* https://ali.ski/tI7blh
-* https://ali.ski/O4yTxb
-* https://ali.ski/6_rFIS
-* https://ali.ski/gb92E-
+* https://ali.ski/i87zav
+* https://ali.ski/eSSgk
+* https://ali.ski/X7bz5
+* https://ali.ski/0ZlYTT
 * Giant4 (Россия)
-* Макетная плата и провода https://ali.ski/w8AFTm
+* Макетная плата и провода https://ali.ski/KQSEPu
 * Дисплей 1602
-* https://ali.ski/2VMIU
-* https://ali.ski/4fLT6w
+* https://ali.ski/kHURN
+* https://ali.ski/Pr880
 * Матрица MAX7219 – искать
-* https://ali.ski/URaNlv
-* https://ali.ski/id65D
+* https://ali.ski/APiig-
+* https://ali.ski/gmwkXj
 * Матрица 16×16 – искать
 * Giant4
-* https://ali.ski/pOMcck
-* https://ali.ski/nSJCP
-* https://ali.ski/hI6tov
-* https://ali.ski/ZSliU7
+* https://ali.ski/SArEeT
+* https://ali.ski/3P9NYD
+* https://ali.ski/_Dg0j
+* https://ali.ski/2NOrj
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
